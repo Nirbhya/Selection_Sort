@@ -14,6 +14,7 @@ public class Selection_Sort
 		{
 			arr[i]=in.nextInt();			                  	// Input Array Elements
 		}
+		in.close();
 		
 //--------------------------------------------------------------------------
 
